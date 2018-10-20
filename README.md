@@ -5,7 +5,8 @@ This repository contains WebDriver code examples, exercises and tutorials for de
 Over time, more and more test example will be uploaded here.
 All tests examples in this repository is to be considered public domain unless stated otherwise.  
 
-## Demo website to practice WebDriver:
+## Demo website to practice WebDriver
+
 Here is a list of websites where you can practice Selenium webdriver. You will find the list incredibly useful as these will cover many of your real-time web automation use case scenario. Some of the common examples includes are like testing of a login page, online registration forms, and automating flight booking. 
  
 - [The Internet by Elemental Selenium](http://the-internet.herokuapp.com/)
